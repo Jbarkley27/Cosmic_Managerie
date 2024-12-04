@@ -609,8 +609,8 @@ MonoBehaviour:
   switchSettingsMigration: 1
   HasSourceProject: 1
   HasPlatforms: 1
-  sourceProjectPath: ../cosmic_managerie/Cosmic_Managerie.fspro
-  sourceBankPath: ../cosmic_managerie/Build
+  sourceProjectPath: ../Cosmic-Managerie-Audio/Cosmic-Managerie-Audio.fspro
+  sourceBankPath: ../Cosmic-Managerie-Audio/Build
   sourceBankPathUnformatted: 
   BankRefreshCooldown: 5
   ShowBankRefreshWindow: 1
@@ -631,7 +631,8 @@ MonoBehaviour:
   VirtualChannelSettings: []
   RealChannelSettings: []
   Plugins: []
-  MasterBanks: []
+  MasterBanks:
+  - Master
   Banks: []
   BanksToLoad: []
   LiveUpdatePort: 9264
